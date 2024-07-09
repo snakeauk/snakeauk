@@ -1,5 +1,5 @@
 ###
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&letterSpacing=fast&pause=1000&vCenter=true&random=false&width=435&lines=Hello!+World!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&letterSpacing=fast&pause=1000&vCenter=true&random=false&width=435&lines=Hello+World!)](https://git.io/typing-svg)
 ###
 
 ## Stats
